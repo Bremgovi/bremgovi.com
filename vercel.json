@@ -6,7 +6,7 @@
       },
       {
         "source": "/",
-        "destination": "bremgovi.com"
+        "destination": "https://portfolio-bremgovis-projects.vercel.app"
       }
     ]
 }
