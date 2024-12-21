@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      {
+        "source": "/sans",
+        "destination": "https://sans-chat-bremgovis-projects.vercel.app/HTML/index.html"
+      }
+    ]
+}
